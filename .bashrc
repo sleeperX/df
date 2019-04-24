@@ -95,6 +95,7 @@ alias update='sudo apt -y update; sudo apt -y upgrade'
 alias install='sudo apt -y install'
 alias sudo='sudo '
 alias run='sudo bash'
+alias cdc='cd; clear'
 
 # Add an "alert" alias for long running commands.  Use like so:
 #   sleep 10; alert
